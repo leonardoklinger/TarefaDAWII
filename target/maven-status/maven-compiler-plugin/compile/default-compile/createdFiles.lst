@@ -1,0 +1,9 @@
+Entidades\Leilao.class
+acao\DeletarLeilao.class
+acao\CadastrarLeilao.class
+DAO\LeilaoDaoSession.class
+Interface\IRepository.class
+acao\UpdateLeilaoAcao.class
+controler\Dashboard.class
+controler\BancoDeDados.class
+Enumeradores\SituacaoEnum.class
